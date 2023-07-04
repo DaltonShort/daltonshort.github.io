@@ -1,3 +1,3 @@
 function alertButton() {
-    alert("Hello world!")
+    alert("None, it's a hardware problem!")
 }
